@@ -1,0 +1,281 @@
+[
+    {
+      "_id": { "$oid": "6697fdad9a99353c370a0488" },
+      "name": "Battery",
+      "description": "This is a high-capacity lithium-ion battery designed specifically for E-rickshaws. It offers long-lasting performance, ensuring that your E-rickshaw can run efficiently for extended periods. With a robust design, this battery provides reliable power and durability, making it an excellent choice for E-rickshaw owners.",
+      "price": 200,
+      "seller": { "$oid": "6697e009af248474185837c5" },
+      "images": ["https://5.imimg.com/data5/SELLER/Default/2023/1/AN/GG/UN/19508851/62-9v-36ah-li-ion-battery-pack-with-bms-for-ev.jpg"],
+      "__v": 0
+    },
+    {
+      "_id": { "$oid": "66990594a7a2eef354cfe09d" },
+      "name": "Insulator",
+      "description": "This insulator is designed for high-performance insulation applications. It provides excellent electrical insulation, ensuring safety and reliability in various industrial settings. Perfect for telegraph systems and other high-voltage applications, this insulator is made from durable materials to withstand harsh conditions.",
+      "price": 600,
+      "seller": { "$oid": "6699058ba7a2eef354cfe09a" },
+      "images": ["https://image.made-in-china.com/318f0j00CaNRVIhGaHkq/China-Supplier-Low-Price-Telegraph-Porcelain-Insulators-Elec-mp4.webp"],
+      "__v": 0
+    },
+    {
+      "_id": { "$oid": "66990770a7a2eef354cfe0a5" },
+      "name": "E Rickshaw Battery",
+      "description": "This E-rickshaw battery is built to last, offering reliable performance for up to 7 months. It is engineered to meet the high demands of E-rickshaw operations, ensuring consistent power output and extended usage periods. Ideal for those looking for a dependable power solution for their E-rickshaw.",
+      "price": 999,
+      "seller": { "$oid": "66990738a7a2eef354cfe0a2" },
+      "images": ["https://batteryseller.in/wp-content/uploads/2021/04/e-rickshaw-battery-500x500-1.jpg"],
+      "__v": 0
+    },
+    {
+      "_id": { "$oid": "66990796a7a2eef354cfe0a8" },
+      "name": "Charger",
+      "description": "This charger is specifically designed for E-rickshaw batteries, providing efficient and quick charging. It features advanced safety mechanisms to prevent overcharging and short circuits, ensuring the longevity of your battery. Ideal for E-rickshaw owners looking for a reliable and fast charging solution.",
+      "price": 39,
+      "seller": { "$oid": "66990738a7a2eef354cfe0a2" },
+      "images": ["https://5.imimg.com/data5/FJ/FA/MY-39480516/e-rickshaw-battery-charger.jpg"],
+      "__v": 0
+    },
+    {
+      "_id": { "$oid": "669c32676bda51b416f4b3fd" },
+      "name": "Lithium-Ion Battery Pack",
+      "description": "This high-capacity 60kWh lithium-ion battery pack is designed for electric vehicles, offering long-lasting performance and reliability. It features advanced battery management systems to ensure safety and optimal performance, making it an ideal choice for electric vehicle manufacturers and users.",
+      "price": 6000,
+      "seller": "60a3e5c59c4b5a001f8e9b2a",
+      "images": ["https://5.imimg.com/data5/AX/YJ/OA/SELLER-3758099/lithium-ion-battery-pack-500x500.jpg"]
+    },
+    {
+      "_id": { "$oid": "669c32676bda51b416f4b3fe" },
+      "name": "Electric Motor - 150kW",
+      "description": "This powerful 150kW electric motor is designed for EV powertrains, providing exceptional torque and efficiency. It is ideal for high-performance electric vehicles, offering a robust and reliable solution for powering EVs. Engineered for durability, it ensures long-term performance in demanding applications.",
+      "price": 3500,
+      "seller": "60a3e5c59c4b5a001f8e9b2b",
+      "images": ["https://sc04.alicdn.com/kf/Hf020748c5cb948ab8326eacca141184bS.jpg"]
+    },
+    {
+      "_id": { "$oid": "669c32676bda51b416f4b3ff" },
+      "name": "DC-DC Converter",
+      "description": "This efficient DC-DC converter is designed for EV power management, offering reliable voltage conversion and regulation. It ensures optimal performance and efficiency in electric vehicles, making it an essential component for modern EV powertrains.",
+      "price": 450,
+      "seller": "60a3e5c59c4b5a001f8e9b2c",
+      "images": ["https://makerbazar.in/cdn/shop/products/Lm2596_DC_DC_Converter.JPG?v=1609762967"]
+    },
+    {
+      "_id": { "$oid": "669c32676bda51b416f4b400" },
+      "name": "EV Charging Port",
+      "description": "This universal charging port is compatible with multiple standards, making it a versatile solution for electric vehicle charging. It features robust construction and reliable connectivity, ensuring efficient and safe charging for all types of EVs.",
+      "price": 200,
+      "seller": "60a3e5c59c4b5a001f8e9b2d",
+      "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfa6ZQdPv9MPRrGv6Etka8qwQ55vWf_dd_NQ&s"]
+    },
+    {
+      "_id": { "$oid": "669c32676bda51b416f4b401" },
+      "name": "Battery Management System",
+      "description": "This advanced Battery Management System (BMS) ensures optimal performance and safety for lithium-ion battery packs. It monitors and manages the battery's state of charge, voltage, and temperature, providing critical protection against overcharging, overheating, and other potential issues.",
+      "price": 800,
+      "seller": "60a3e5c59c4b5a001f8e9b2e",
+      "images": ["https://lithiumbalance.com/wp-content/themes/yootheme/cache/54/HERO-01_lithiumbalance.com_-54e46563.jpeg"]
+    },
+    {
+      "_id": { "$oid": "669c32676bda51b416f4b402" },
+      "name": "Electric Vehicle Inverter",
+      "description": "This high-efficiency inverter is designed for electric vehicle motor control, providing reliable power conversion and management. It is crucial for optimizing the performance and efficiency of electric vehicle drivetrains, ensuring smooth and responsive power delivery.",
+      "price": 1200,
+      "seller": "60a3e5c59c4b5a001f8e9b2f",
+      "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh6-xkkOqaPTQtCJZl_MDbJaUghGcTBzcj7g&s"]
+    },
+    {
+      "_id": { "$oid": "669c32676bda51b416f4b403" },
+      "name": "Regenerative Braking Module",
+      "description": "This regenerative braking module is an energy recovery system that increases EV efficiency by converting kinetic energy into electrical energy during braking. It enhances overall energy efficiency and extends the driving range of electric vehicles, making it a vital component for modern EVs.",
+      "price": 600,
+      "seller": "60a3e5c59c4b5a001f8e9b30",
+      "images": ["https://www.digikey.com/-/media/Images/Article%20Library/TechZone%20Articles/2020/September/Regenerative%20Braking%20on%20Motor-Driven%20Axes/article-2020september-regenerative-braking-fig1.jpg?la=en&ts=e9c3a11a-f3e0-409d-a8e8-24fe13321e32"]
+    },
+    {
+      "_id": { "$oid": "669c32676bda51b416f4b404" },
+      "name": "EV Cooling System",
+      "description": "This comprehensive cooling system is designed for electric vehicle components, ensuring optimal thermal management. It helps maintain the performance and longevity of EV batteries and power electronics by preventing overheating and ensuring stable operating temperatures.",
+      "price": 950,
+      "seller": "60a3e5c59c4b5a001f8e9b31",
+      "images": ["https://hips.hearstapps.com/hmg-prod/images/cooling-systems-20201019101946.jpg?resize=2048:*"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b405" },
+        "name": "Electric Vehicle Controller",
+        "description": "This EV controller manages the electrical power distribution in electric vehicles, optimizing performance and efficiency. It is essential for controlling motor speed and torque, and it ensures smooth operation of the vehicle's powertrain.",
+        "price": 1100,
+        "seller": "60a3e5c59c4b5a001f8e9b32",
+        "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8JdPZLtYpM7AlzHEowZbHucMWG8O4l1RD5Q&s"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b406" },
+        "name": "Electric Vehicle Heat Sink",
+        "description": "This heat sink is designed for cooling electric vehicle components by dissipating excess heat. It ensures that critical parts such as batteries and inverters remain within optimal temperature ranges, enhancing overall system reliability and performance.",
+        "price": 150,
+        "seller": "60a3e5c59c4b5a001f8e9b33",
+        "images": ["https://www.ledsupply.com/media/wysiwyg/heat_sink_comparison.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b407" },
+        "name": "EV Battery Charger",
+        "description": "This battery charger is designed for rapid and efficient charging of electric vehicle batteries. It features multiple charging modes and safety protocols to ensure the longevity and performance of the battery during the charging process.",
+        "price": 550,
+        "seller": "60a3e5c59c4b5a001f8e9b34",
+        "images": ["https://www.evchargers.co.uk/wp-content/uploads/2020/10/ev-charger-1.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b408" },
+        "name": "EV Battery Pack",
+        "description": "This high-capacity battery pack is designed for electric vehicles, providing long-range capabilities and reliable power delivery. It features advanced thermal management and battery management systems to ensure optimal performance and safety.",
+        "price": 2500,
+        "seller": "60a3e5c59c4b5a001f8e9b35",
+        "images": ["https://www.tesla.com/sites/default/files/Powerwall%20%28v3%29.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b409" },
+        "name": "Electric Vehicle Dashboard",
+        "description": "This EV dashboard provides essential information and controls for electric vehicle operation. It features a user-friendly interface with displays for battery status, power consumption, and other critical vehicle metrics.",
+        "price": 700,
+        "seller": "60a3e5c59c4b5a001f8e9b36",
+        "images": ["https://www.automobilemag.com/wp-content/uploads/2020/09/2021-Porsche-Taycan-digital-dashboard.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b40a" },
+        "name": "Electric Vehicle Wiring Harness",
+        "description": "This wiring harness is essential for connecting various electrical components in electric vehicles. It is designed to ensure reliable and efficient power distribution throughout the vehicle, with high-quality insulation and connectors for durability.",
+        "price": 300,
+        "seller": "60a3e5c59c4b5a001f8e9b37",
+        "images": ["https://www.wireharness.co.uk/wp-content/uploads/2019/03/electric-vehicle-wiring-harness-1.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b40b" },
+        "name": "Electric Vehicle Suspension System",
+        "description": "This suspension system is designed for electric vehicles, providing a smooth and stable ride. It features advanced shock absorbers and struts to handle various driving conditions and enhance overall driving comfort and safety.",
+        "price": 850,
+        "seller": "60a3e5c59c4b5a001f8e9b38",
+        "images": ["https://www.caradvice.com.au/wp-content/uploads/2020/01/2021-audi-e-tron-sportback-review-3.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b40c" },
+        "name": "Electric Vehicle Tire Pressure Monitoring System",
+        "description": "This tire pressure monitoring system ensures that electric vehicle tires are maintained at optimal pressure levels. It provides real-time alerts and monitoring to enhance vehicle safety and performance, preventing issues related to under-inflated or over-inflated tires.",
+        "price": 250,
+        "seller": "60a3e5c59c4b5a001f8e9b39",
+        "images": ["https://www.tpms.com/media/wysiwyg/tpms-monitoring-system.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b40d" },
+        "name": "Electric Vehicle Climate Control System",
+        "description": "This climate control system is designed to maintain comfortable temperature levels within the electric vehicle cabin. It features advanced heating and cooling technologies to ensure a pleasant driving experience in all weather conditions.",
+        "price": 1200,
+        "seller": "60a3e5c59c4b5a001f8e9b3a",
+        "images": ["https://www.evselectricvehicles.com/media/ev-climate-control.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b40e" },
+        "name": "Electric Vehicle Regenerative Braking System",
+        "description": "This regenerative braking system captures and stores energy generated during braking, improving overall energy efficiency and extending battery life. It provides a smooth braking experience while recovering valuable energy back into the battery.",
+        "price": 950,
+        "seller": "60a3e5c59c4b5a001f8e9b3b",
+        "images": ["https://www.electric-vehicles.org/images/regenerative-braking-system.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b40f" },
+        "name": "Electric Vehicle Charging Port",
+        "description": "This charging port allows for the connection of an electric vehicle to an external power source. It features robust design and compatibility with various charging standards to ensure reliable and efficient charging.",
+        "price": 200,
+        "seller": "60a3e5c59c4b5a001f8e9b3c",
+        "images": ["https://www.evchargingports.com/images/charging-port.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b410" },
+        "name": "Electric Vehicle Onboard Charger",
+        "description": "This onboard charger is integrated into the electric vehicle to convert AC power from the charging port into DC power for the battery. It supports various charging levels and ensures efficient power conversion.",
+        "price": 800,
+        "seller": "60a3e5c59c4b5a001f8e9b3d",
+        "images": ["https://www.evchargerparts.com/images/onboard-charger.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b411" },
+        "name": "Electric Vehicle Power Inverter",
+        "description": "This power inverter converts DC power from the battery into AC power for the vehicle's electrical systems and accessories. It is crucial for running devices that require AC power and ensures efficient energy use.",
+        "price": 650,
+        "seller": "60a3e5c59c4b5a001f8e9b3e",
+        "images": ["https://www.evparts.com/images/power-inverter.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b412" },
+        "name": "Electric Vehicle Auxiliary Battery",
+        "description": "This auxiliary battery provides additional power for vehicle accessories and systems, such as lights and entertainment units. It supports the main battery and ensures that all vehicle functions operate smoothly.",
+        "price": 400,
+        "seller": "60a3e5c59c4b5a001f8e9b3f",
+        "images": ["https://www.electric-vehicles.org/images/auxiliary-battery.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b413" },
+        "name": "Electric Vehicle Traction Motor",
+        "description": "This traction motor drives the wheels of an electric vehicle, providing the necessary torque and power for propulsion. It is designed for high efficiency and performance, ensuring smooth acceleration and driving experience.",
+        "price": 2000,
+        "seller": "60a3e5c59c4b5a001f8e9b40",
+        "images": ["https://www.motorparts.com/images/traction-motor.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b414" },
+        "name": "Electric Vehicle Battery Management System",
+        "description": "This battery management system (BMS) monitors and manages the performance of the vehicle's battery pack. It ensures safe operation by balancing cell voltages, monitoring temperatures, and protecting against overcharging or discharging.",
+        "price": 700,
+        "seller": "60a3e5c59c4b5a001f8e9b41",
+        "images": ["https://www.battery-management.com/images/bms.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b415" },
+        "name": "Electric Vehicle Thermal Management System",
+        "description": "This thermal management system maintains the optimal operating temperature of various components in the electric vehicle, including the battery, motor, and electronics. It utilizes cooling and heating elements to ensure reliability and performance.",
+        "price": 1000,
+        "seller": "60a3e5c59c4b5a001f8e9b42",
+        "images": ["https://www.thermalmanagement.com/images/ev-thermal-system.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b416" },
+        "name": "Electric Vehicle Battery Cooling System",
+        "description": "This cooling system is designed to manage the temperature of the electric vehicle's battery pack, preventing overheating and ensuring optimal performance. It includes cooling fans, heat exchangers, and fluid channels to maintain the battery within safe temperature ranges.",
+        "price": 950,
+        "seller": "60a3e5c59c4b5a001f8e9b43",
+        "images": ["https://www.electric-vehicles.com/images/battery-cooling-system.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b417" },
+        "name": "Electric Vehicle Sound System",
+        "description": "This sound system generates artificial sounds for electric vehicles to ensure they are heard by pedestrians and other road users. It enhances safety by providing auditory signals that mimic traditional engine sounds or other desired tones.",
+        "price": 200,
+        "seller": "60a3e5c59c4b5a001f8e9b44",
+        "images": ["https://www.ev-sound-system.com/images/sound-generator.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b418" },
+        "name": "Electric Vehicle Charging Cable",
+        "description": "This high-quality charging cable is used to connect an electric vehicle to a charging station. It is designed to handle high currents and provide reliable, safe charging. The cable is compatible with various charging standards and features durable connectors.",
+        "price": 100,
+        "seller": "60a3e5c59c4b5a001f8e9b45",
+        "images": ["https://www.ev-charging-cables.com/images/charging-cable.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b419" },
+        "name": "Electric Vehicle Battery Tray",
+        "description": "This battery tray provides a secure mounting solution for electric vehicle battery packs. It is engineered to withstand vibrations and shocks, ensuring that the battery remains firmly in place during operation.",
+        "price": 400,
+        "seller": "60a3e5c59c4b5a001f8e9b46",
+        "images": ["https://www.battery-trays.com/images/battery-tray.jpg"]
+    },
+    {
+        "_id": { "$oid": "669c32676bda51b416f4b41a" },
+        "name": "Electric Vehicle High-Voltage Junction Box",
+        "description": "This junction box is used to connect and distribute high-voltage power within an electric vehicle. It ensures safe and efficient power transfer between various components and is designed to handle high currents and voltages.",
+        "price": 180,
+        "seller": "60a3e5c59c4b5a001f8e9b47",
+        "images": ["https://www.junction-boxes.com/images/high-voltage-junction-box.jpg"]
+    }
+    ]
+    
+
+    
